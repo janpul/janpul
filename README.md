@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm John Paul Taruc (janpul)
 
-<!--
-**janpul/janpul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack Web Developer & Student Leader**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+- 🌟 Passionate about building robust web solutions and leading impactful student initiatives.
+- 👨‍💻 Experienced in **PHP**, **ASP.NET**, and **MySQL**.
+- 🎓 Student leader committed to **community development** and empowering peers.
+- 🏅 Former **Samsung Galaxy Campus Batch 2 Ambassador**.
+
+---
+
+## 🚀 Notable Project
+
+### [Main Structures Engineering](https://mainstructuresengineering.com)
+> A complete rehaul of Main Structures Engineering together with a project management system tailored for the company.  
+> _Check it out on my [portfolio](https://jpault.vercel.app)!_
+
+---
+
+## 🏆 Achievements
+
+- **Samsung Galaxy Campus Batch 2 Ambassador**: Awarded as one of the special awardees and inspired the next generation of tech leaders.
+
+---
+
+## 🌱 Interests
+
+- Leadership & Student Advocacy
+- Community Development
+- Innovative Web Technologies
+
+---
+
+## 🌐 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-jpault.vercel.app-blue?style=flat&logo=google-chrome)](https://jpault.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fjohnpaultaruc-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/johnpaultaruc)
+[![Instagram](https://img.shields.io/badge/Instagram-johnpaultaruc-E4405F?style=flat&logo=instagram)](https://instagram.com/johnpaultaruc)
+
+---
+
+> “Believe in what you can do, and stay consistent!”
