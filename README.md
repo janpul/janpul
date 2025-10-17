@@ -16,8 +16,10 @@
 ## 🚀 Notable Project
 
 ### [Main Structures Engineering](https://mainstructuresengineering.com)
-> A complete rehaul of Main Structures Engineering together with a project management system tailored for the company.  
-> _Check it out on my [portfolio](https://jpault.vercel.app)!_
+> A complete rehaul of Main Structures Engineering, together with a project management system tailored for the company.
+
+### [PairUp: Find Your Date](https://github.com/janpul/pairup-tinder-app)
+> A click-based Android app that helps users connect with others based on shared interests.
 
 ---
 
